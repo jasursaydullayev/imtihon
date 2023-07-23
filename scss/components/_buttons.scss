@@ -1,0 +1,16 @@
+.footer__btn{
+    font-size: $body-fs;
+    line-height: $body-lh;
+    background-color: transparent;
+    position: relative;
+    left: 28.5rem;
+    height: 38px;
+    max-width: 144px;
+    color: $white;
+    border:none;
+    border-bottom: 2px solid $blue;
+    transition: 0.3s;
+   }
+   .footer__btn:hover{
+    color: $blue;
+   }
